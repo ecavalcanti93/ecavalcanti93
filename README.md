@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭  I’m currently working on web development and design projects.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
- and ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+🔭  I’m currently working on web development and design projects.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+ and ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 <br>💬 Ask me about web development, UI/UX design, and performance optimization.<br>
 
 
