@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/528dda02-93d0-4c34-9459-e9b4eb72ca5f)
+
 # 💫 About Me:
 🔭  I’m currently working on web development and design projects.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
  and ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
